@@ -37,3 +37,17 @@ https://nyaya-ai-five.vercel.app/
 - Vercel
 
 ## Project Structure
+nyaya-ai/
+├── public/      # Static assets
+├── src/         # Application source code
+├── supabase/    # Database configuration and migrations
+├── dist/        # Production build output
+└── README.md
+## Hackathon Context
+
+This project was developed as part of a hackathon with the objective of building a practical AI-based solution for legal information discovery.
+
+## Author
+
+**Mahesh Gowd**  
+GitHub: https://github.com/themaheshgowd
