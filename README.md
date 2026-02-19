@@ -46,8 +46,3 @@ nyaya-ai/
 ## Hackathon Context
 
 This project was developed as part of a hackathon with the objective of building a practical AI-based solution for legal information discovery.
-
-## Author
-
-**Mahesh Gowd**  
-GitHub: https://github.com/themaheshgowd
