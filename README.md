@@ -43,6 +43,6 @@ nyaya-ai/
 ├── supabase/    # Database configuration and migrations
 ├── dist/        # Production build output
 └── README.md
-## Hackathon Context
+## Hackathon Contest
 
 This project was developed as part of a hackathon with the objective of building a practical AI-based solution for legal information discovery.
